@@ -2,7 +2,7 @@
 
 Site institucional da Efeito Web, desenvolvido com React, Next.js App Router, Vinext, Vite, GSAP e Tailwind CSS.
 
-O projeto está pronto para desenvolvimento local. As fontes usadas no layout ficam em `public/fonts`, portanto a interface não depende do Google Fonts ou de outro serviço externo para preservar sua identidade visual.
+O projeto está pronto para desenvolvimento local. As fontes usadas no layout ficam em `public/fonts`, portanto a interface não depende do Google Fonts ou de outro serviço externo para preservar sua identidade visual...
 
 ## Requisitos
 
